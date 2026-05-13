@@ -1,0 +1,27 @@
+# binaries
+bin/
+dist/
+
+# logs
+*.log
+
+# env
+.env
+
+# ide
+.idea/
+.vscode/
+
+# coverage
+coverage.out
+coverage.html
+
+# tmp
+tmp/
+
+# docker
+postgres-data/
+redis-data/
+
+# generated
+mock/
